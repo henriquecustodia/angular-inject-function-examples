@@ -21,7 +21,7 @@ import { RouterLink, RouterOutlet } from '@angular/router';
           <a [routerLink]="['/injection-into-a-route-guard']">Injection into a route guard</a>
         </li>
         <li>
-          <a [routerLink]="['/using-the-injection-context']">Using the injection context</a>
+          <a [routerLink]="['/injection-into-a-route-resolver']">Injection into a route resolver</a>
         </li>
       </ul>
 
